@@ -12,8 +12,8 @@ The List of Projects are:
 
 ## Arithmetic Formatter
 
-Link to view aim of project: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
-Replit URL: https://replit.com/@rhlc/boilerplate-arithmetic-formatter
+Link to view aim of project: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter  
+Replit URL: https://replit.com/@rhlc/boilerplate-arithmetic-formatter  
 
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
 
@@ -24,5 +24,5 @@ Create a function that receives a list of strings that are arithmetic problems a
       
 ## Time Calculator
 
-Link to view aim of project: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
+Link to view aim of project: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator  
 Replit URL: 
